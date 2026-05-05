@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const RAW_API_URL = 'http://localhost:5000/api';
+const RAW_API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
 // Ensure the base URL always ends with `/api` (Render injects RENDER_EXTERNAL_URL without it)
 const API_URL = /\/api\/?$/.test(RAW_API_URL)
   ? RAW_API_URL.replace(/\/$/, '')
