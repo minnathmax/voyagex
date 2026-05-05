@@ -1,0 +1,1369 @@
+[
+  {
+    "_id": "mock_dest_000",
+    "name": "Paris",
+    "description": "The City of Light dazzles with iconic landmarks, world-class cuisine, and timeless romance.",
+    "location": {
+      "city": "Paris",
+      "country": "France",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800",
+        "caption": "Paris 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1511739001486-6bfe10ce65f4?w=800",
+        "caption": "Paris 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1549144511-f099e773c147?w=800",
+        "caption": "Paris 3"
+      }
+    ],
+    "category": [
+      "city",
+      "romantic",
+      "cultural"
+    ],
+    "bestSeason": [
+      "spring",
+      "autumn"
+    ],
+    "budgetRange": {
+      "min": 800,
+      "max": 3000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1520
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "city",
+      "romantic",
+      "cultural"
+    ],
+    "isActive": true,
+    "visitCount": 15200,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_001",
+    "name": "Bali",
+    "description": "A tropical paradise with stunning temples, emerald rice terraces, and pristine beaches.",
+    "location": {
+      "city": "Denpasar",
+      "country": "Indonesia",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+        "caption": "Bali 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=800",
+        "caption": "Bali 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1573790387438-4da905039392?w=800",
+        "caption": "Bali 3"
+      }
+    ],
+    "category": [
+      "beach",
+      "cultural",
+      "romantic"
+    ],
+    "bestSeason": [
+      "spring",
+      "summer"
+    ],
+    "budgetRange": {
+      "min": 500,
+      "max": 2000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1340
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "beach",
+      "cultural",
+      "romantic"
+    ],
+    "isActive": true,
+    "visitCount": 13400,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_002",
+    "name": "Tokyo",
+    "description": "A dazzling metropolis blending ancient temples with neon-lit skyscrapers and culinary wonders.",
+    "location": {
+      "city": "Tokyo",
+      "country": "Japan",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800",
+        "caption": "Tokyo 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800",
+        "caption": "Tokyo 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=800",
+        "caption": "Tokyo 3"
+      }
+    ],
+    "category": [
+      "city",
+      "cultural"
+    ],
+    "bestSeason": [
+      "spring",
+      "autumn"
+    ],
+    "budgetRange": {
+      "min": 900,
+      "max": 3500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 1410
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "city",
+      "cultural"
+    ],
+    "isActive": true,
+    "visitCount": 14100,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_003",
+    "name": "Santorini",
+    "description": "Whitewashed villages perched on volcanic cliffs above the deep-blue Aegean Sea.",
+    "location": {
+      "city": "Fira",
+      "country": "Greece",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800",
+        "caption": "Santorini 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=800",
+        "caption": "Santorini 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1580502304784-8985b7eb7260?w=800",
+        "caption": "Santorini 3"
+      }
+    ],
+    "category": [
+      "beach",
+      "romantic"
+    ],
+    "bestSeason": [
+      "summer"
+    ],
+    "budgetRange": {
+      "min": 700,
+      "max": 2800,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1120
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "beach",
+      "romantic"
+    ],
+    "isActive": true,
+    "visitCount": 11200,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_004",
+    "name": "New York City",
+    "description": "The city that never sleeps — Broadway, Central Park, and world-famous skyline views.",
+    "location": {
+      "city": "New York",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800",
+        "caption": "New York City 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800",
+        "caption": "New York City 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522083165195-3424ed129620?w=800",
+        "caption": "New York City 3"
+      }
+    ],
+    "category": [
+      "city",
+      "cultural"
+    ],
+    "bestSeason": [
+      "spring",
+      "autumn"
+    ],
+    "budgetRange": {
+      "min": 1000,
+      "max": 4000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1680
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "city",
+      "cultural"
+    ],
+    "isActive": true,
+    "visitCount": 16800,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_005",
+    "name": "Dubai",
+    "description": "A futuristic desert oasis of towering skyscrapers, luxury shopping, and golden dunes.",
+    "location": {
+      "city": "Dubai",
+      "country": "UAE",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800",
+        "caption": "Dubai 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=800",
+        "caption": "Dubai 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?w=800",
+        "caption": "Dubai 3"
+      }
+    ],
+    "category": [
+      "city",
+      "adventure"
+    ],
+    "bestSeason": [
+      "winter",
+      "spring"
+    ],
+    "budgetRange": {
+      "min": 800,
+      "max": 5000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1250
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "city",
+      "adventure"
+    ],
+    "isActive": true,
+    "visitCount": 12500,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_006",
+    "name": "Maldives",
+    "description": "Crystal-clear waters, overwater villas, and vibrant coral reefs in the Indian Ocean.",
+    "location": {
+      "city": "Malé",
+      "country": "Maldives",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800",
+        "caption": "Maldives 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=800",
+        "caption": "Maldives 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?w=800",
+        "caption": "Maldives 3"
+      }
+    ],
+    "category": [
+      "beach",
+      "romantic"
+    ],
+    "bestSeason": [
+      "winter",
+      "spring"
+    ],
+    "budgetRange": {
+      "min": 1500,
+      "max": 6000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 980
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "beach",
+      "romantic"
+    ],
+    "isActive": true,
+    "visitCount": 9800,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_007",
+    "name": "Swiss Alps",
+    "description": "Majestic snow-capped peaks, pristine lakes, and world-class skiing adventures.",
+    "location": {
+      "city": "Interlaken",
+      "country": "Switzerland",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=800",
+        "caption": "Swiss Alps 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=800",
+        "caption": "Swiss Alps 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=800",
+        "caption": "Swiss Alps 3"
+      }
+    ],
+    "category": [
+      "mountain",
+      "adventure"
+    ],
+    "bestSeason": [
+      "winter",
+      "summer"
+    ],
+    "budgetRange": {
+      "min": 1200,
+      "max": 4500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1030
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "mountain",
+      "adventure"
+    ],
+    "isActive": true,
+    "visitCount": 10300,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_008",
+    "name": "Machu Picchu",
+    "description": "The legendary lost city of the Incas set high in the Andes mountains.",
+    "location": {
+      "city": "Cusco",
+      "country": "Peru",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=800",
+        "caption": "Machu Picchu 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800",
+        "caption": "Machu Picchu 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1580619305218-8423a7ef79b4?w=800",
+        "caption": "Machu Picchu 3"
+      }
+    ],
+    "category": [
+      "historical",
+      "adventure",
+      "mountain"
+    ],
+    "bestSeason": [
+      "spring",
+      "autumn"
+    ],
+    "budgetRange": {
+      "min": 600,
+      "max": 2200,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 890
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "historical",
+      "adventure",
+      "mountain"
+    ],
+    "isActive": true,
+    "visitCount": 8900,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_009",
+    "name": "London",
+    "description": "Royal palaces, iconic red buses, and centuries of history along the River Thames.",
+    "location": {
+      "city": "London",
+      "country": "UK",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800",
+        "caption": "London 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1529180184525-78f99adb8e98?w=800",
+        "caption": "London 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=800",
+        "caption": "London 3"
+      }
+    ],
+    "category": [
+      "city",
+      "historical",
+      "cultural"
+    ],
+    "bestSeason": [
+      "spring",
+      "summer"
+    ],
+    "budgetRange": {
+      "min": 900,
+      "max": 3500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1450
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "city",
+      "historical",
+      "cultural"
+    ],
+    "isActive": true,
+    "visitCount": 14500,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_010",
+    "name": "Rome",
+    "description": "The Eternal City where ancient ruins meet vibrant piazzas and incredible pasta.",
+    "location": {
+      "city": "Rome",
+      "country": "Italy",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800",
+        "caption": "Rome 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=800",
+        "caption": "Rome 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1529260830199-42c24126f198?w=800",
+        "caption": "Rome 3"
+      }
+    ],
+    "category": [
+      "city",
+      "historical",
+      "cultural"
+    ],
+    "bestSeason": [
+      "spring",
+      "autumn"
+    ],
+    "budgetRange": {
+      "min": 700,
+      "max": 2800,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1380
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "city",
+      "historical",
+      "cultural"
+    ],
+    "isActive": true,
+    "visitCount": 13800,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_011",
+    "name": "Kyoto",
+    "description": "Ancient capital of Japan with thousands of temples, bamboo forests, and geisha traditions.",
+    "location": {
+      "city": "Kyoto",
+      "country": "Japan",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800",
+        "caption": "Kyoto 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800",
+        "caption": "Kyoto 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800",
+        "caption": "Kyoto 3"
+      }
+    ],
+    "category": [
+      "cultural",
+      "historical"
+    ],
+    "bestSeason": [
+      "spring",
+      "autumn"
+    ],
+    "budgetRange": {
+      "min": 800,
+      "max": 3000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 960
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "cultural",
+      "historical"
+    ],
+    "isActive": true,
+    "visitCount": 9600,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_012",
+    "name": "Cape Town",
+    "description": "Where Table Mountain meets the ocean — wine country, safaris, and stunning coastlines.",
+    "location": {
+      "city": "Cape Town",
+      "country": "South Africa",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800",
+        "caption": "Cape Town 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?w=800",
+        "caption": "Cape Town 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800",
+        "caption": "Cape Town 3"
+      }
+    ],
+    "category": [
+      "adventure",
+      "beach",
+      "wildlife"
+    ],
+    "bestSeason": [
+      "spring",
+      "summer"
+    ],
+    "budgetRange": {
+      "min": 600,
+      "max": 2500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 780
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "adventure",
+      "beach",
+      "wildlife"
+    ],
+    "isActive": true,
+    "visitCount": 7800,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_013",
+    "name": "Barcelona",
+    "description": "Gaudí masterpieces, Mediterranean beaches, and a legendary food scene.",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=800",
+        "caption": "Barcelona 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=800",
+        "caption": "Barcelona 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1562883676-8c7feb83f09b?w=800",
+        "caption": "Barcelona 3"
+      }
+    ],
+    "category": [
+      "city",
+      "beach",
+      "cultural"
+    ],
+    "bestSeason": [
+      "spring",
+      "summer"
+    ],
+    "budgetRange": {
+      "min": 600,
+      "max": 2500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1210
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "city",
+      "beach",
+      "cultural"
+    ],
+    "isActive": true,
+    "visitCount": 12100,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_014",
+    "name": "Iceland",
+    "description": "Land of fire and ice — geysers, Northern Lights, and dramatic volcanic landscapes.",
+    "location": {
+      "city": "Reykjavik",
+      "country": "Iceland",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1504829857797-ddff29c27927?w=800",
+        "caption": "Iceland 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1520769945061-0a448c463865?w=800",
+        "caption": "Iceland 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?w=800",
+        "caption": "Iceland 3"
+      }
+    ],
+    "category": [
+      "adventure",
+      "mountain"
+    ],
+    "bestSeason": [
+      "winter",
+      "summer"
+    ],
+    "budgetRange": {
+      "min": 1000,
+      "max": 4000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 650
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "adventure",
+      "mountain"
+    ],
+    "isActive": true,
+    "visitCount": 6500,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_015",
+    "name": "Phuket",
+    "description": "Thailand's largest island with turquoise waters, vibrant nightlife, and island-hopping.",
+    "location": {
+      "city": "Phuket",
+      "country": "Thailand",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?w=800",
+        "caption": "Phuket 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1506665531195-3566af2b4dfa?w=800",
+        "caption": "Phuket 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1537956965359-7573183d1f57?w=800",
+        "caption": "Phuket 3"
+      }
+    ],
+    "category": [
+      "beach",
+      "family",
+      "adventure"
+    ],
+    "bestSeason": [
+      "winter",
+      "spring"
+    ],
+    "budgetRange": {
+      "min": 400,
+      "max": 1800,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1150
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "beach",
+      "family",
+      "adventure"
+    ],
+    "isActive": true,
+    "visitCount": 11500,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_016",
+    "name": "Marrakech",
+    "description": "Bustling souks, ornate palaces, and the fragrant spice markets of North Africa.",
+    "location": {
+      "city": "Marrakech",
+      "country": "Morocco",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?w=800",
+        "caption": "Marrakech 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?w=800",
+        "caption": "Marrakech 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558642084-fd07fae5282e?w=800",
+        "caption": "Marrakech 3"
+      }
+    ],
+    "category": [
+      "cultural",
+      "historical"
+    ],
+    "bestSeason": [
+      "spring",
+      "autumn"
+    ],
+    "budgetRange": {
+      "min": 400,
+      "max": 1500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 720
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "cultural",
+      "historical"
+    ],
+    "isActive": true,
+    "visitCount": 7200,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_017",
+    "name": "Sydney",
+    "description": "Harbour Bridge, Opera House, golden beaches, and a laid-back coastal lifestyle.",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800",
+        "caption": "Sydney 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1524293581917-878a6d017c71?w=800",
+        "caption": "Sydney 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1523428096049-1d3e3d1e1e3e?w=800",
+        "caption": "Sydney 3"
+      }
+    ],
+    "category": [
+      "city",
+      "beach"
+    ],
+    "bestSeason": [
+      "spring",
+      "summer"
+    ],
+    "budgetRange": {
+      "min": 900,
+      "max": 3500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1090
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "city",
+      "beach"
+    ],
+    "isActive": true,
+    "visitCount": 10900,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_018",
+    "name": "Petra",
+    "description": "The rose-red city carved into sandstone cliffs — one of the New Seven Wonders.",
+    "location": {
+      "city": "Wadi Musa",
+      "country": "Jordan",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1579606032821-4e6161c81571?w=800",
+        "caption": "Petra 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1563177978-4f26640b4e27?w=800",
+        "caption": "Petra 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1548786811-dd6e453ccca7?w=800",
+        "caption": "Petra 3"
+      }
+    ],
+    "category": [
+      "historical",
+      "adventure"
+    ],
+    "bestSeason": [
+      "spring",
+      "autumn"
+    ],
+    "budgetRange": {
+      "min": 500,
+      "max": 2000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 540
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "historical",
+      "adventure"
+    ],
+    "isActive": true,
+    "visitCount": 5400,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_019",
+    "name": "Amalfi Coast",
+    "description": "Pastel-colored villages clinging to dramatic Mediterranean cliffs.",
+    "location": {
+      "city": "Amalfi",
+      "country": "Italy",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1534113414509-0eec2bfb493f?w=800",
+        "caption": "Amalfi Coast 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=800",
+        "caption": "Amalfi Coast 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1548783300-70b41bc84f56?w=800",
+        "caption": "Amalfi Coast 3"
+      }
+    ],
+    "category": [
+      "beach",
+      "romantic"
+    ],
+    "bestSeason": [
+      "spring",
+      "summer"
+    ],
+    "budgetRange": {
+      "min": 800,
+      "max": 3500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 810
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "beach",
+      "romantic"
+    ],
+    "isActive": true,
+    "visitCount": 8100,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_020",
+    "name": "Serengeti",
+    "description": "Witness the Great Migration across endless golden savannas teeming with wildlife.",
+    "location": {
+      "city": "Arusha",
+      "country": "Tanzania",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800",
+        "caption": "Serengeti 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=800",
+        "caption": "Serengeti 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800",
+        "caption": "Serengeti 3"
+      }
+    ],
+    "category": [
+      "wildlife",
+      "adventure"
+    ],
+    "bestSeason": [
+      "summer",
+      "autumn"
+    ],
+    "budgetRange": {
+      "min": 1500,
+      "max": 5000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 430
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "wildlife",
+      "adventure"
+    ],
+    "isActive": true,
+    "visitCount": 4300,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_021",
+    "name": "Banff",
+    "description": "Turquoise glacial lakes, towering Rockies, and pristine wilderness trails.",
+    "location": {
+      "city": "Banff",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=800",
+        "caption": "Banff 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1609825488888-3a766db05542?w=800",
+        "caption": "Banff 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1561134643-668f9057cce4?w=800",
+        "caption": "Banff 3"
+      }
+    ],
+    "category": [
+      "mountain",
+      "adventure"
+    ],
+    "bestSeason": [
+      "summer",
+      "winter"
+    ],
+    "budgetRange": {
+      "min": 700,
+      "max": 3000,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 760
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "mountain",
+      "adventure"
+    ],
+    "isActive": true,
+    "visitCount": 7600,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_022",
+    "name": "Havana",
+    "description": "Vintage cars, colonial architecture, salsa rhythms, and Caribbean charm.",
+    "location": {
+      "city": "Havana",
+      "country": "Cuba",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1500759285222-a95e2233b302?w=800",
+        "caption": "Havana 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1570299437488-d430e1e677c7?w=800",
+        "caption": "Havana 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1514862510292-c6a9aa9a1ef1?w=800",
+        "caption": "Havana 3"
+      }
+    ],
+    "category": [
+      "city",
+      "cultural",
+      "historical"
+    ],
+    "bestSeason": [
+      "winter",
+      "spring"
+    ],
+    "budgetRange": {
+      "min": 400,
+      "max": 1500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 510
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "city",
+      "cultural",
+      "historical"
+    ],
+    "isActive": true,
+    "visitCount": 5100,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_023",
+    "name": "Queenstown",
+    "description": "The adventure capital of the world — bungee jumping, skiing, and fjord cruises.",
+    "location": {
+      "city": "Queenstown",
+      "country": "New Zealand",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800",
+        "caption": "Queenstown 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=800",
+        "caption": "Queenstown 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=800",
+        "caption": "Queenstown 3"
+      }
+    ],
+    "category": [
+      "adventure",
+      "mountain"
+    ],
+    "bestSeason": [
+      "summer",
+      "winter"
+    ],
+    "budgetRange": {
+      "min": 800,
+      "max": 3500,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 620
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "adventure",
+      "mountain"
+    ],
+    "isActive": true,
+    "visitCount": 6200,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  },
+  {
+    "_id": "mock_dest_024",
+    "name": "Jaipur",
+    "description": "The Pink City — grand forts, vibrant bazaars, and Rajasthani royal heritage.",
+    "location": {
+      "city": "Jaipur",
+      "country": "India",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      }
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800",
+        "caption": "Jaipur 1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800",
+        "caption": "Jaipur 2"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=800",
+        "caption": "Jaipur 3"
+      }
+    ],
+    "category": [
+      "historical",
+      "cultural"
+    ],
+    "bestSeason": [
+      "winter",
+      "spring"
+    ],
+    "budgetRange": {
+      "min": 300,
+      "max": 1200,
+      "currency": "USD"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 840
+    },
+    "activities": [],
+    "attractions": [],
+    "tags": [
+      "historical",
+      "cultural"
+    ],
+    "isActive": true,
+    "visitCount": 8400,
+    "createdAt": "2026-05-05T03:21:56.490Z",
+    "updatedAt": "2026-05-05T03:21:56.490Z"
+  }
+]

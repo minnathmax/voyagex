@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "local_mos2c5pt_qy50xs",
+    "paymentId": "PAY1777951365617",
+    "transactionId": "TXN5XYVRDD9J7X",
+    "user": "mock_user_id",
+    "booking": "local_mos2c4fb_vhhzbi",
+    "amount": 800,
+    "paymentMethod": "card",
+    "status": "completed",
+    "paidAt": "2026-05-05T03:22:45.617Z",
+    "createdAt": "2026-05-05T03:22:45.618Z",
+    "updatedAt": "2026-05-05T03:22:45.618Z"
+  }
+]

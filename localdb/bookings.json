@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "local_mos2c4fb_vhhzbi",
+    "bookingId": "BK1777951363943",
+    "destination": {
+      "_id": "mock_dest_005",
+      "name": "Dubai",
+      "description": "A futuristic desert oasis of towering skyscrapers, luxury shopping, and golden dunes.",
+      "location": {
+        "city": "Dubai",
+        "country": "UAE",
+        "coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        }
+      },
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800",
+          "caption": "Dubai 1"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=800",
+          "caption": "Dubai 2"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?w=800",
+          "caption": "Dubai 3"
+        }
+      ],
+      "category": [
+        "city",
+        "adventure"
+      ],
+      "bestSeason": [
+        "winter",
+        "spring"
+      ],
+      "budgetRange": {
+        "min": 800,
+        "max": 5000,
+        "currency": "USD"
+      },
+      "rating": {
+        "average": 4.6,
+        "count": 1250
+      },
+      "activities": [],
+      "attractions": [],
+      "tags": [
+        "city",
+        "adventure"
+      ],
+      "isActive": true,
+      "visitCount": 12500,
+      "createdAt": "2026-05-05T03:21:56.490Z",
+      "updatedAt": "2026-05-05T03:21:56.490Z"
+    },
+    "bookingType": "package",
+    "totalAmount": 800,
+    "user": "mock_user_id",
+    "status": "confirmed",
+    "paymentStatus": "paid",
+    "createdAt": "2026-05-05T03:22:43.944Z",
+    "updatedAt": "2026-05-05T03:22:45.622Z",
+    "confirmationCode": "CFMGDL7ZU"
+  }
+]
