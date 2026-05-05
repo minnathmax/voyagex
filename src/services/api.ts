@@ -98,7 +98,7 @@ export const paymentAPI = {
 
 export const reviewAPI = {
   create: (data: any) => api.post('/reviews', data),
-  getByDestination: (destinationId: string, params?: any) => 
+  getByDestination: (destinationId: string, params?: any) =>
     api.get(`/reviews/destination/${destinationId}`, { params }),
   getMyReviews: (params?: any) => api.get('/reviews/my-reviews', { params }),
   update: (id: string, data: any) => api.put(`/reviews/${id}`, data),
