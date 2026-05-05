@@ -9,7 +9,7 @@ const Footer = () => {
       { name: 'About Us', href: '/about' },
     ],
     support: [
-      { name: 'Contact Us', href: 'mailto:support@voyagex.com' },
+      { name: 'Contact Us', href: 'mailto:Minnathbeeebi08@gmail.com' },
     ],
     legal: [
       { name: 'Terms of Service', href: '#' },
@@ -38,15 +38,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <Mail className="h-4 w-4 text-blue-400" />
-                <span>support@voyagex.com</span>
+                <span>Minnathbeeebi08@gmail.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="h-4 w-4 text-blue-400" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 7760397540</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="h-4 w-4 text-blue-400" />
-                <span>123 Travel Street, New York, NY 10001</span>
+                <span>Mangalore, Karnataka, India</span>
               </div>
             </div>
           </div>
